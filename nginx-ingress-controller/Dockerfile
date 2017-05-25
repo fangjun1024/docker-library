@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64:v1.6.0
+FROM gcr.io/google_containers/nginx-ingress-controller:0.9.0-beta.5
 MAINTAINER fangjun 
